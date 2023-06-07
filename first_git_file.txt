@@ -2,4 +2,4 @@ Hey this is my first Git file
 This is to make the second commit
 
 
-resloving merge conflict  merge conflict happens
+making changes for push
