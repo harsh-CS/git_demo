@@ -1,2 +1,0 @@
-Hey this is my first Git file  
-This is to make the second commit
