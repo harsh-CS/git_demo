@@ -1,4 +1,5 @@
 Hey this is my first Git file 
 This is to make the second commit
 
-I hope merge conflict happens
+
+resloving merge conflict  merge conflict happens
